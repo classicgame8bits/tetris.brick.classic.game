@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=tetris.brick.classic.game",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 1000,
+  "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
